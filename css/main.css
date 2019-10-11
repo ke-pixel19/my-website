@@ -1,0 +1,38 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Alegreya', serif;
+    color: #ff66ff;
+}
+
+/***** GRID *****/
+.full-width {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.half-width {
+  width: 500px;
+  float: left;
+}
+
+
+/***** HEADER *****/
+
+header {
+  height: 600px;
+}
+
+header h1 {
+  font-family: 'EB Garamond', serif;
+  font-size: 30px;
+  padding: 65px 0 65px 25px;
+}
+
+
+
+
+li {
+  display: inline;
+  text-decoration: none;
+}
